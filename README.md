@@ -24,5 +24,5 @@ sudo ./fakeWebcam.sh mefunaronxd.mp4 /dev/video3
 
 ### Check Cam
 ```bash
-ffplay /dev/video2
+ffplay /dev/video3
 ```
