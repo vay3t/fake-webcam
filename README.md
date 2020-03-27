@@ -6,8 +6,6 @@ sudo apt-get install v4l2loopback-dkms ffmpeg
 sudo modprobe v4l2loopback
 ls /dev/video* # check video dev '/dev/video0'
 git clone https://github.com/vay3t/fake-webcam
-cd fake-webcam
-chmod +x fakeWebcam.sh
 ```
 
 ### Run
